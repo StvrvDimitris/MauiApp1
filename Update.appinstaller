@@ -1,1 +1,9 @@
-{\rtf1}
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://stvrvdimitris.github.io/MauiApp1/Update.appinstaller" Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+    <MainBundle Name="maui-package-name-placeholder" Version="0.4.0.0" Publisher="CN=admin" Uri="https://stvrvdimitris.github.io/MauiApp1/installer.msix" />
+    <UpdateSettings>
+        <OnLaunch HoursBetweenUpdateChecks="0" UpdateBlocksActivation="true" />
+        <AutomaticBackgroundTask />
+        <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+    </UpdateSettings>
+</AppInstaller>
