@@ -44,7 +44,7 @@
         <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
         <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
         <GenerateTestArtifacts>True</GenerateTestArtifacts>
-        <AppInstallerUri>https://stvrvdimitris.github.io/MauiApp1/install.msix</AppInstallerUri>
+        <AppInstallerUri>https://stvrvdimitris.github.io/MauiApp1/installer.msix</AppInstallerUri>
         <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
     </PropertyGroup>
 
