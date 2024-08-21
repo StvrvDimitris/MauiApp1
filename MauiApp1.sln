@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1.csproj", "{5A8C2C4E-9A63-4C26-8A4E-0807DEF139AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiApp1", "MauiApp1.csproj", "{5A8C2C4E-9A63-4C26-8A4E-0807DEF139AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallerUtiliry", "..\InstallerUtiliry\InstallerUtiliry.csproj", "{F8568121-2668-4AE9-953D-F05C48A02FEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{5A8C2C4E-9A63-4C26-8A4E-0807DEF139AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A8C2C4E-9A63-4C26-8A4E-0807DEF139AA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5A8C2C4E-9A63-4C26-8A4E-0807DEF139AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F8568121-2668-4AE9-953D-F05C48A02FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8568121-2668-4AE9-953D-F05C48A02FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8568121-2668-4AE9-953D-F05C48A02FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8568121-2668-4AE9-953D-F05C48A02FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

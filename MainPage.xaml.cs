@@ -22,7 +22,6 @@
                 try
                 {
                     await _updateService.DownloadMsixPackageAsync();
-                    await _installationService.InstallMsixPackageAsync();
                 }
                 catch (Exception ex)
                 {

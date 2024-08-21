@@ -10,7 +10,7 @@ namespace MauiApp1
     {
         private readonly HttpClient _httpClient;
         private const string VersionUrl = "https://stvrvdimitris.github.io/MauiApp1/TextFile1.txt";
-        private const string CurrentVersion = "0.9.0.0"; // Update this to your app's current version
+        private const string CurrentVersion = "0.10.0.0"; // Update this to your app's current version
 
         public VersionService(HttpClient httpClient)
         {
